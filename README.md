@@ -62,11 +62,9 @@ https://obscure-atoll-40774.herokuapp.com/
 
 ![plot](/images/Image6.jpeg)
 
-## Books page where you can look up books to check out of the library:
 
 ![plot](/images/Image7.jpeg)
 
-## Books page where you can look up books to check out of the library:
 
 ![plot](/images/Image8.jpeg)
 
