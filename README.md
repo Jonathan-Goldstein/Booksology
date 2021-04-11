@@ -42,21 +42,25 @@ https://obscure-atoll-40774.herokuapp.com/
 
 ![plot](/images/Image12.jpeg)
 
-## Creating a list of restaurants based on cuisine type and location:
+## Sign up/Create an account page:
 
 ![plot](/images/Image2.jpeg)
 
-## Pop up confirming the restaurant is added to the user's list on the lists page:
+## Home Page, once signed in:
 
 ![plot](/images/Image3.jpeg)
 
-## Restaurant added to the lists page:
+## Profile page, where you can edit your information:
 
 ![plot](/images/Image4.jpeg)
 
-## Map functionality:
+## Editing the profile:
 
 ![plot](/images/Image5.jpeg)
+
+## Editing the profile:
+
+![plot](/images/Image6.jpeg)
 
 
 
