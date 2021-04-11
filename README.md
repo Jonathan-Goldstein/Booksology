@@ -1,45 +1,46 @@
-# Overview - Project 1:
-Welcome to Project 1! This is an important step in your full-stack journey as you will now use your newly acquired skills and knowledge to build web application from scratch. With your team, you will conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. Because you will be working collaboratively, you will learn agile development methodologies and implement feature and bug fixes using the git branch workflow and pull requests.
+# Overview - Project 2:
+Welcome to Project 2! This is yet another important milestone in your full-stack journey: designing and building your first full-stack web application. You and your team will design and build an app using the MVC paradigm, create your own server-side API, add user authentication, and connect to a database.
 
 # Task:
 
-For our first project we were tasked with working in groups to create a custom webpage using two server-side APIs, git branching workflow, and agile software development.
+For our second project we were tasked with working in groups to create a custom webpage using full-stack applications, git branching workflow agile software developmen and collaborative development.
 
 # Learning Objectives:
 
 1.) Speak technically about a feature you implemented in your project.
 2.) Explain and execute git branching workflow in a collaborative project. 
 3.) Resolve merge conflicts. Explain agile software development. 
-4.) Design, build, and deploy a client-side web application using GitHub Pages. 
+4.) Design, build and deploy a full-stack web application to Heroku
 5.) Prepare a professional presentation and repository README for the project.
 
 # The Application:
 
-After brainstorming multiple ideas we settled on an application that used the Zomato and Google Maps APIs to create a restaurant list's application called "Foodist."
-The "Foodist" app provides a place for “foodies (people who enjoy eating out at restaurants)” to save restaurants to "Foodie Bucket Lists." Users can discover restaurants based on food type and location to save to their various lists. User's can also use the application's map feature to visually determine the best route to the saved restaurants on their foodie bucket lists.  
+After brainstorming multiple ideas we settled on an application that used a custom rest api to create a system for searching and tracking library books called "Library Management System." 
+
+# Elevator Pitch:
+Book Lovers and reading enthusiasts spend too much money on purchasing from from Amazon, Barnes & Noble, Google Books and the like...  There is no need to do that when there are free repositories that house these books called libaries.  The problem is that their websites are bland, boring and rarely interactive.  Not anymore.  The Library Management System is an intuitive and interactive application where users who sign up can look for and checkout books for free as well as create an online community for books lovers to interact with each other.  And when they are done with these books, they can return them and save their space from clutter!
 
 
 # The functions of the webpage are:
 
-1.) When a user searches for a restaurant on the home page based on cuisine and location, the user is presented with a list of twenty restaurants based on the inputted criteria.
+1.) When a user enters the home page they are presented with a login or a make an account screen.
 
-2.) When the user clicks the add to list button on the top right corner of a restaurant widget, the user is presented with a pop up that prompts them to add the restaurant to an existing list or create a new one.
+2.) If the user does not already have an account they can click the create button which brings to a page where they can input their information.
 
-3.) When the user visits the list page they are presented with dynamically generated lists based on their inputs on the home page.
+3.) Once signed into their account a user can see the books borrowed on the home page (this is yet to be coded in right now it is just visual for what will be.)
 
-4.) When the user visits the maps page they can input a restaurant name or address in the search bar and will be presented with their restaurant located in the center of the map.
+4.) When a user clicks on the books page they are presented with a book list that can be populated by searching for a variety of means including: Genre, Title, Author, Publisher, Edition, ISBN, and number of pages.
 
-5.) When the user inputs a general cuisine they will be presented with multiple instances of those types of restaurants represented by blue icon markers.
+5.) When the user inputs one of these criteria, the corresponding book or books populates to the list.
 
 # Link to the website:
-
-stevegekas.github.io/foodapp/
+https://obscure-atoll-40774.herokuapp.com/
 
 # Below are images showing the functional webpages:
 
 ## The landing page:
 
-![plot](./assets/images/ReadMe1.jpeg)
+![plot](/images/Image12.jpeg)
 
 ## Creating a list of restaurants based on cuisine type and location:
 
