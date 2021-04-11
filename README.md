@@ -44,21 +44,19 @@ https://obscure-atoll-40774.herokuapp.com/
 
 ## Creating a list of restaurants based on cuisine type and location:
 
-![plot](./assets/images/ReadMe2.jpeg)
+![plot](/images/Image2.jpeg)
 
 ## Pop up confirming the restaurant is added to the user's list on the lists page:
 
-![plot](./assets/images/ReadMe3.jpeg)
+![plot](/images/Image3.jpeg)
 
 ## Restaurant added to the lists page:
 
-![plot](./assets/images/ReadMe4.jpeg)
+![plot](/images/Image4.jpeg)
 
 ## Map functionality:
 
-![plot](./assets/images/ReadMe5.jpeg)
+![plot](/images/Image5.jpeg)
 
-![plot](./assets/images/ReadMe6.jpeg)
 
-![plot](./assets/images/ReadMe7.jpeg)
 
