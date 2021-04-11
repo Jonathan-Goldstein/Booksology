@@ -36,6 +36,9 @@ Book Lovers and reading enthusiasts spend too much money on purchasing from from
 # Link to the website:
 https://obscure-atoll-40774.herokuapp.com/
 
+# Link to a zip file where you can download a video showing the functionality of the webpage:
+https://github.com/Jonathan-Goldstein/Booksology/blob/main/Video.webm.zip
+
 # Below are images showing the functional webpages:
 
 ## The landing page:
