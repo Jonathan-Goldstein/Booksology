@@ -1,9 +1,9 @@
 # Overview - Project 2:
-Welcome to Project 2! This is yet another important milestone in your full-stack journey: designing and building your first full-stack web application. You and your team will design and build an app using the MVC paradigm, create your own server-side API, add user authentication, and connect to a database.
+Welcome to Project 2! This is yet another important milestone in your full-stack journey: designing and building your second group full-stack web application. You and your team will design and build an app using the MVC paradigm, create your own server-side API, add user authentication, and connect to a database.
 
 # Task:
 
-For our second project we were tasked with working in groups to create a custom webpage using full-stack applications, git branching workflow agile software developmen and collaborative development.
+For our second project we were tasked with working in groups to create a custom webpage using full-stack applications, git branching workflow, agile software development, and collaborative development.
 
 # Learning Objectives:
 
@@ -18,7 +18,7 @@ For our second project we were tasked with working in groups to create a custom 
 After brainstorming multiple ideas we settled on an application that used a custom rest api to create a system for searching and tracking library books called "Library Management System." 
 
 # Elevator Pitch:
-Book Lovers and reading enthusiasts spend too much money on purchasing from from Amazon, Barnes & Noble, Google Books and the like...  There is no need to do that when there are free repositories that house these books called libaries.  The problem is that their websites are bland, boring and rarely interactive.  Not anymore.  The Library Management System is an intuitive and interactive application where users who sign up can look for and checkout books for free as well as create an online community for books lovers to interact with each other.  And when they are done with these books, they can return them and save their space from clutter!
+Book Lovers and reading enthusiasts spend too much money on purchasing from from Amazon, Barnes & Noble, Google Books and the like...  There is no need to do that when there are institutions that house these books called libaries and allow you to borrow them for free.  The problem is that their websites are bland, boring and rarely interactive.  Not anymore!  The Library Management System is an intuitive and interactive application where users who sign up can look for and checkout books for free as well as create an online community for books lovers to interact with each other.  And when they are done with these books, they can return them and save their space from clutter!
 
 
 # The functions of the webpage are:
